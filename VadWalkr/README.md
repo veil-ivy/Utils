@@ -6,3 +6,4 @@ Walk AVL Tree of Virtual Address Descriptor Tree by using VadWalkr
 ## Acknowledgements:
 ### Darthton Anton - BlackBone Project - brilliant project thank you for maintaining accurate structure offsets
 ### ReactOS
+### @Veil-Ivy
