@@ -4,6 +4,6 @@ Walk AVL Tree of Virtual Address Descriptor Tree by using VadWalkr
 ### . Implement complete module listing through depth of Virtual Address Descriptor Tree
 ### . Hide modules through Virtual Address Descriptor Link & Unlink
 ## Acknowledgements:
-### Darthton Anton - BlackBone Project - brilliant project thank you for maintaining accurate structure offsets
+### Darthton Anton - BlackBone Project
 ### ReactOS
 ### @Veil-Ivy
