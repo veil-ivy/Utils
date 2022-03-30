@@ -1,7 +1,5 @@
 
 # GetWorkingSet
-![va_pa](https://user-images.githubusercontent.com/90290279/160922220-1c1c29ba-8ece-4b0a-8187-d03ab21b67da.PNG)
-
 
 A process's Working Set contains information about its virtual addresses in address space that are mapping to physical memory or chunks of memory pages.
 GetWorkingSet uses QueryWorkingSet to get address of memory pages within virtual address ranges.
