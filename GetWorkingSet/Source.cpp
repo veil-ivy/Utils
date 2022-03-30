@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <TlHelp32.h>
 #include <Psapi.h>
-#define PAGE_SIZE 0x1000
+
 inline bool bget_privilege() {
 	HANDLE htoken = NULL;
 	LUID luid = { 0 };
