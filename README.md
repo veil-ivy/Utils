@@ -5,4 +5,5 @@ Collection of projects,scripts & code snippets.
 ### VadWalkr: Walks through Virtual Address Descriptor AVL Tree list
 ### GhostMemory: Hides memory region by avoiding adding virtual address memory region's entry to Virtual Address Descriptor Tree.
 ### GetAlterableThread: Gets thread that is alterable.
+### GetWorkingSet: Gets memory pages within Virtual Address
 
