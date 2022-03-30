@@ -14,4 +14,5 @@ GetWorkingSet uses QueryWorkingSet to get address of memory pages within virtual
 # How to Use
 - Compile GetWorkingSet in Visual Studio and pass the targeted process name to the compiled binary.
 
+feel free to reach out to me on twitter: @veil_ivy
 
