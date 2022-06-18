@@ -1,5 +1,5 @@
 # XeonPack
-A Packer library,old deprecated and not supported.
+A Packer library,old deprecated,incomplete and not supported.
 
 
 # Note:
