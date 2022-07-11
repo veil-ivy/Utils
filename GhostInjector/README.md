@@ -1,5 +1,7 @@
 # GhostInjector
-Performs Injection from kernel to user and hides injected VAD memory region
+GhostInjector attempts to hide VAD regions for an injected shellcode/DLL/Payload etc...
+# How does this work ?
+ code is pretty self explainatory, I don't do spoon feeding :)
 
 # Requirements
 -  Visual Studio 2019 with latest Windows WDK and relevant packages.
