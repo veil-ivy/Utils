@@ -1,5 +1,5 @@
 # GhostInjector
-Performs APC Injection from kernel to user and hides VAD memory region
+Performs Injection from kernel to user and hides injected VAD memory region
 
 # Requirements
 -  Visual Studio 2019 with latest Windows WDK and relevant packages.
